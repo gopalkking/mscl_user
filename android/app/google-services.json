@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "983909293100",
+    "project_id": "maduraismartcity-85253",
+    "storage_bucket": "maduraismartcity-85253.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983909293100:android:0576be3370ea2d674dc589",
+        "android_client_info": {
+          "package_name": "com.mscl.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKhqHn9TesXDfCju_Z2ErbUKFaajIJU_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983909293100:android:0b81f5088ee7c4e14dc589",
+        "android_client_info": {
+          "package_name": "com.msclengineer.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKhqHn9TesXDfCju_Z2ErbUKFaajIJU_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

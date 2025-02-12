@@ -1,0 +1,295 @@
+{
+    "login": "Login",
+    "@login": {
+        "description": "login title"
+    },
+    "emailphonenumber": "Email ID / Phone number",
+    "@emailphonenumber": {
+        "description": "Email ID / Phone number hint text"
+    },
+    "password": "Password",
+    "@password": {
+        "description": "Password"
+    },
+    "forgetpassword0": "Forgot Password?",
+    "@forgetpassword0": {
+        "description": "Forgot Password?"
+    },
+     "forgetpassword": "Forgot Password",
+    "@forgetpassword": {
+        "description": "Forgot Password"
+    },
+    "alreadyacc": "Already have an account? ",
+    "@alreadyacc": {
+        "description": "Already have an account? "
+    },
+     "signup": "Signup",
+    "@signup": {
+        "description": "Signup"
+    },
+      "loginsucc": "Login successful!",
+    "@loginsucc": {
+        "description": "Login successful!"
+    },
+    "loginfail": "Login failed. Please try again.",
+    "@loginfail": {
+        "description": "Login failed. Please try again."
+    },
+     "didntacc": "Didn’t have an account? ",
+    "@didntacc": {
+        "description": "Didn’t have an account? "
+    },
+     "fullname": "Full Name",
+    "@fullname": {
+        "description": "Full Name"
+    },
+     "phonenum": "Phone Number",
+    "@phonenum": {
+        "description": "Phone Number"
+    },
+     "emailid": "Email ID",
+    "@emailid": {
+        "description": "Email ID"
+    },
+     "confirmpass": "Confirm Password",
+    "@confirmpass": {
+        "description": "Confirm Password"
+    },
+    "sendotp": "Send OTP",
+    "@sendotp": {
+        "description": "Send OTP"
+    },
+     "contin": "Continue",
+    "@contin": {
+        "description": "Continue"
+    },
+     "enterotp": "Enter OTP",
+    "@enterotp": {
+        "description": "Enter OTP"
+    },
+     "resendotp": "Re-Send OTP",
+    "@resendotp": {
+        "description": "Re-Send OTP"
+    },
+     "newpass": "New Password",
+    "@newpass": {
+        "description": "New Password"
+    },
+     "updatepass": "Update Password",
+    "@updatepass": {
+        "description": "Update Password"
+    },
+     "totalreq": "Total\nRequest",
+    "@totalreq": {
+        "description": "Total\nRequest"
+    },
+     "openreq": "Open\nStatus",
+    "@openreq": {
+        "description": "Open\nStatus"
+    },
+     "closereq": "Closed\nRequest",
+    "@closereq": {
+        "description": "Closed\nRequest"
+    },
+     "raisetick": "Raising Ticket",
+    "@raisetick": {
+        "description": "Raising Ticket"
+    },
+     "trackurgri": "Track your Grievance",
+    "@trackurgri": {
+        "description": "Track your Grievance"
+    },
+     "profile": "Profile",
+    "@profile": {
+        "description": "Profile"
+    },
+     "faq": "FAQs",
+    "@faq": {
+        "description": "FAQs"
+    },
+     "cancel":"Cancel",
+    "@cancel": {
+        "description": "Cancel"
+    },
+     "lang": "Language",
+    "@lang": {
+        "description": "Language"
+    },
+     "logout": "Logout",
+    "@logout": {
+        "description": "Logout"
+    },
+     "logoutdisc": "Do you want to logout?",
+    "@logoutdisc": {
+        "description": "Do you want to logout?"
+    },
+     "deleacc": "Delete Account",
+    "@deleacc": {
+        "description": "Delete Account"
+    },
+     "deleaccdisc": "Do you want to Delete Account?",
+    "@deleaccdisc": {
+        "description": "Do you want to Delete Account?"
+    },
+     "editprofile": "Edit Profile",
+    "@editprofile": {
+        "description": "Edit Profile"
+    },
+     "name": "Name",
+    "@name": {
+        "description": "Name"
+    },
+     "address": "Address",
+    "@address": {
+        "description": "Address"
+    },
+     "updateprof": "Update Profile",
+    "@updateprof": {
+        "description": "Update Profile"
+    },
+     "oldpass": "Old Password",
+    "@oldpass": {
+        "description": "Old Password"
+    },
+     "repass": "Re enter Password",
+    "@repass": {
+        "description": "Re enter Password"
+    },
+     "changepass": "Change Password",
+    "@changepass": {
+        "description": "Change  Password"
+    },
+     "myreports": "My Reports",
+    "@myreports": {
+        "description": "My Reports"
+    },
+     "closed": "Closed",
+    "@closed": {
+        "description": "Closed"
+    },
+     "assignto": "Assigned to: ",
+    "@changepass": {
+        "description": "Assigned to: "
+    },
+     "date": "Date: ",
+    "@date": {
+        "description": "Date:"
+    },
+     "reqoverview": "Request Overview:",
+    "@reqoverview": {
+        "description": "Request Overview:"
+    },
+     "raiseby": "Raised by:",
+    "@raiseby": {
+        "description": "Raised by:"
+    },
+     "assignto1": "Assigned to:",
+    "@assignto1": {
+        "description": "Assigned to:"
+    },
+     "department": "Department:",
+    "@department": {
+        "description": "Department:"
+    },
+     "department1": "Department :",
+    "@department1": {
+        "description": "Department :"
+    },
+     "grivedetail": "Grievance Details",
+    "@grivedetail": {
+        "description": "Grievance Detail"
+    },
+      "address1": "Address :",
+    "@address1": {
+        "description": "Address :"
+    },
+     "phonenum1": "Contact Number:",
+    "@phonenum1": {
+        "description": "Contact Number:"
+    },
+     "pincode": "Pincode :",
+    "@pincode": {
+        "description": "Pincode :"
+    },
+     "zone": "Zone :",
+    "@zone": {
+        "description": "Zone :"
+    },
+     "ward": "Ward :",
+    "@ward": {
+        "description": "Ward:"
+    },
+     "area": "Area : ",
+    "@area": {
+        "description": "Area:"
+    },
+     "req": "Request :",
+    "@req": {
+        "description": "Request:"
+    },
+     "reqfullview": "View Full Details",
+    "@reqfullview": {
+        "description": "View Full Details"
+    },
+     "complainno": "Complaint no: ",
+    "@complainno": {
+        "description": "Complaint no: "
+    },
+     "complainhis": "Complaint History :",
+    "@complainhis": {
+        "description": "Complaint History :"
+    },
+     "status": "Status",
+    "@status": {
+        "description": "Status"
+    },
+     "setti": "Settings",
+    "@setti": {
+        "description": "Settings"
+    },
+     "faq0": "Frequently asked Questions",
+    "@faq0": {
+        "description": "Frequently asked Questions"
+    },
+     "faq1": "How do I file a grievance complaint?",
+    "@faq1": {
+        "description": "How do I file a grievance complaint?"
+    },
+     "faq2": "You can file a complaint through the official government app, website, or in person at the local municipal office.",
+    "@faq2": {
+        "description": "You can file a complaint through the official government app, website, or in person at the local municipal office."
+    },
+     "faq3": "What types of issues can I report?",
+    "@faq3": {
+        "description": "What types of issues can I report?"
+    },
+     "faq4": "You can report issues related to public services, infrastructure, environment, and more.",
+    "@faq4": {
+        "description": "You can report issues related to public services, infrastructure, environment, and more."
+    },
+     "faq5": "Is there a fee to file a complaint?",
+    "@faq5": {
+        "description": "Is there a fee to file a complaint?"
+    },
+     "faq6": "No, filing a complaint is free of charge.                                                       ",
+    "@faq6": {
+        "description": "No, filing a complaint is free of charge.                                                       "
+    },
+     "faq7": "How long will it take to address my complaint?",
+    "@faq7": {
+        "description": "How long will it take to address my complaint?"
+    },
+     "faq8": "The time to address your complaint may vary depending on the nature and severity of the issue.",
+    "@faq8": {
+        "description": "The time to address your complaint may vary depending on the nature and severity of the issue."
+    },
+     "faq9": "What information do I need to provide when filing a complaint?",
+    "@faq9": {
+        "description": "What information do I need to provide when filing a complaint?"
+    },
+     "faq10": "You need to provide details about the issue, location, and any supporting evidence such as photos or documents.",
+    "@faq10": {
+        "description": "You need to provide details about the issue, location, and any supporting evidence such as photos or documents."
+    }
+    
+}
